@@ -1,0 +1,2 @@
+hostname = *.exmaple-filter.com
+^https?://(\d{1,3}\.){1,3}\d{1,3}.+example=\d{2}&
