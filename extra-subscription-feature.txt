@@ -1,0 +1,3 @@
+Response header that Quantumult will check:
+
+subscription-userinfo : upload=2375927198; download=12983696043; total=1099511627776
