@@ -1,11 +1,15 @@
-## One Tap to Configure Quantumult (Since Version 2.2.3)
+# One Tap to Configure Quantumult (Since Version 2.2.3)
 
-#### URI Scheme:
+## URI Scheme:
+
 ```
 quantumult://configuration?server=websafe-base64-encode-utf8-no-padding(favorites-server-https-link)&filter=websafe-base64-encode-utf8-no-padding(favorites-filter-https-link)&rejection=websafe-base64-encode-utf8-no-padding(favorites-rejection-https-link)
 ```
 
-#### Sample:
+### Sample:
+
+The response content of "favorites-server-https-link" follows the style of SSR subscription, if the server type is SS, then the server info in the content should follow the [SS-URI](https://shadowsocks.org/en/spec/SIP002-URI-Scheme.html) 
+
 - Links
 ```
 https://raw.githubusercontent.com/crossutility/Quantumult/master/samples/quantumult-server.txt
