@@ -8,7 +8,7 @@ quantumult://configuration?server=websafe-base64-encode-utf8-no-padding(favorite
 
 ### Sample:
 
-The response content of "favorites-server-https-link" follows the style of SSR subscription, if the server type is SS, then the server info in the content should follow the [SS-URI](https://shadowsocks.org/en/spec/SIP002-URI-Scheme.html) 
+The response content of "favorites-server-https-link" follows the style of [SSR subscription](https://github.com/shadowsocksr-backup/shadowsocks-rss/wiki/SSR-QRcode-scheme), if the server type is SS, then the server info in the content should follow the [SS-URI](https://shadowsocks.org/en/spec/SIP002-URI-Scheme.html) 
 
 - Links
 ```
