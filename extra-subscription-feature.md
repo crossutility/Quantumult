@@ -23,3 +23,10 @@ Server: nginx
 Strict-Transport-Security: max-age=31536000; includeSubDomains
 Subscription-Userinfo: upload=2375927198; download=12983696043; total=1099511627776
 ```
+
+## Beta
+The `expire=1862111613` is the seconds from 00:00:00 UTC, January 1, 1970
+
+```
+Subscription-Userinfo: upload=2375927198; download=12983696043; total=1099511627776; expire=1862111613
+```
